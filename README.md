@@ -1,4 +1,4 @@
-# first_app
+# Image Generator
 
 A new Flutter project.
 
